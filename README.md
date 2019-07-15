@@ -1,7 +1,7 @@
 Tic tac game
 
-Based on react
-the objective is to make it impossible for the player to win. (working on this.)
+Based on react <br>
+the objective is to make it impossible for the player to win. (still working on this.)
 
 ## Available Scripts
 
